@@ -6,7 +6,7 @@
   - arrow function: 🎓 known
   - async function: 🎓 known
   - call: 🎓 known
-  - bind: 👂 heard
+  - bind: 🎓 known
   - apply: 🖐️ used
   - instanceof: 🖐️ used
   - ...spread: 👂 heard
