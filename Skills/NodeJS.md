@@ -60,7 +60,7 @@
   - Internationalization: 👂 heard
   - Blob, File, Buffer, node:buffer: 👂 heard
   - Module node:zlib: 👂 heard
-- Application structure and architecture: 👂 heard
+- Application structure and architecture
   - Isolation between layer: 👂 heard
   - Multilayer approach: 👂 heard
   - Separation of concerns: 👂 heard
