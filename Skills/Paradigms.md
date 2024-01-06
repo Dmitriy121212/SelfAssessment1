@@ -1,0 +1,66 @@
+## Multi-paradigm programming
+
+- Theory
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
+  - Generic programming: 👂 heard
+  - Concurrent computing: 🎓 known
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
+  - FRP (Functional-reactive): 🖐️ used
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 🖐️ used
+  - Actor model: 🖐️ used
+- OOP basics
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 👂 heard
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🖐️ used
+  - Object form: 🎓 known
+  - instance: 👂 heard
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
+- Patterns
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 🖐️ used
+  - Adapter: 👂 heard
+  - Observer: 🖐️ used
+  - Strategy: 👂 heard
+  - Facade: 👂 heard
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🖐️ used
+  - State: 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 🎓 known
+  - Prototype: 👂 heard
+  - Composite: 👂 heard
+  - Decorator: 👂 heard
+  - Flyweight: 👂 heard
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 👂 heard
+  - Visitor: 🎓 known

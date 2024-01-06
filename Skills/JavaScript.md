@@ -1,0 +1,89 @@
+## Programming fundamental concepts
+
+- Language
+  - Object: 🎓 known
+  - this: 🎓 known
+  - arrow function: 🎓 known
+  - async function: 🎓 known
+  - call: 🎓 known
+  - bind: 👂 heard
+  - apply: 🖐️ used
+  - instanceof: 🖐️ used
+  - ...spread: 👂 heard
+  - ...rest: 👂 heard
+  - typeof: 🙋 explained
+  - destructuring: 👂 heard
+  - generator: 🙋 explained
+  - iterator: 🙋 explained
+  - async generator: 🙋 explained
+  - async iterator: 🙋 explained
+  - chaining: 🖐️ used
+  - optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - global: 🙋 explained
+  - globalThis: 🙋 explained
+  - window: 👂 heard
+  - getters and setters: 👂 heard
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
+  - equality operators: 🎓 known
+  - logical operators: 🎓 known
+  - bitwise operators: 🎓 known
+  - ternary operator: 🎓 known
+  - void: 🙋 explained
+  - yield: 🙋 explained
+  - await: 🙋 explained
+  - template literal: 👂 heard
+  - strict mode: 👂 heard
+  - delete: 🎓 known
+  - in: 🙋 explained
+  - super: 🙋 explained
+  - Symbol: 🙋 explained
+  - Reflect: 👂 heard
+- Statements
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 🙋 explained
+  - throw: 🎓 known
+  - break: 🎓 known
+  - continue: 🎓 known
+  - import: 🎓 known
+  - export: 🎓 known
+  - label: 🎓 known
+  - try..catch: 🎓 known
+  - switch: 🎓 known
+  - class: 🎓 known
+  - new Error: 👂 heard
+  - with: 🎓 known
+- Functions
+  - function declaration: 🎓 known
+  - function expression: 🎓 known
+  - return: 🙋 explained
+  - default parameters: 🎓 known
+  - functional object: 🎓 known
+- Data structures
+  - Array: 🙋 explained
+  - mixin: 🎓 known
+  - extend: 🎓 known
+  - typed arrays: 🎓 known
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 🎓 known
+  - EventEmitter: 🎓 known
+  - RegExp: 🎓 known
+  - Date: 🎓 known
+  - BigInt: 🎓 known
+- Infrastructure
+  - V8: 🙋 explained
+  - Node.js: 🎓 known
+  - npm: 🎓 known
+  - prettier: 🎓 known
+  - MDN: 👂 heard

@@ -1,0 +1,106 @@
+## Programming fundamental concepts
+
+- Syntax and concepts
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🎓 known
+  - function: 🎓 known
+  - procedure: 🎓 known
+  - method: 🎓 known
+  - class: 🙋 explained
+  - prototype: 🙋 explained
+  - event: 🙋 explained
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🎓 known
+  - lexical scope: 👂 heard
+  - code block: 🎓 known
+  - conditions: 🎓 known
+  - loops: 🙋 explained
+  - assignment: 🎓 known
+  - regular expression: 🎓 known
+  - interface: 🎓 known
+  - contract: 👂 heard
+  - module: 🎓 known
+  - call stack: 🎓 known
+- Functions
+  - signature: 🎓 known
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 🙋 explained
+  - closure: 🙋 explained
+  - partial application: 🙋 explained
+  - curry: 👂 heard
+  - higher order: 👂 heard
+  - recursion: 🎓 known
+  - callback: 🎓 known
+  - listener: 🎓 known
+  - compose: 🎓 known
+  - pipe: 🎓 known
+  - memoize: 👂 heard
+  - wrapper: 🎓 known
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 👂 heard
+  - generator: 🎓 known
+  - coroutine: 👂 heard
+- Data structures
+  - array: 🎓 known
+  - structure: 🎓 known
+  - record: 🎓 known
+  - enum: 🎓 known
+  - instance: 🎓 known
+  - object: 🎓 known
+  - class: 🎓 known
+  - collection: 🎓 known
+  - set: 🎓 known
+  - hash table: 🎓 known
+  - linked list: 🎓 known
+  - doubly list: 🎓 known
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 🎓 known
+  - stack: 🎓 known
+  - deque: 🎓 known
+  - tree: 🎓 known
+  - graph: 🎓 known
+  - iterator: 🎓 known
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
+  - serialization: 👂 heard
+  - string parsing: 🎓 known
+- Process & style
+  - compiler: 🎓 known
+  - transpiler: 👂 heard
+  - linter: 👂 heard
+  - polyfill: 👂 heard
+  - debugger: 🎓 known
+  - garbage collection: 👂 heard
+  - refactoring: 🎓 known
+  - code review: 🎓 known
+  - antipatterns: 👂 heard
+  - paradigm: 🎓 known
+  - algorithm: 🎓 known
+  - magic numbers: 🎓 known
+  - hardcode: 👂 heard
+  - complexity: 👂 heard
+  - decomposition: 🎓 known
+  - spaghetti: 👂 heard
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🎓 known
+  - return early: 🎓 known
+  - unittest: 🎓 known
+  - git: 🖐️ used
+  - github: 🖐️ used
