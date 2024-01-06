@@ -10,7 +10,7 @@
   - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 👂 heard
-- Modularity, layers and dependencies: 👂 heard
+- Modularity, layers and dependencies
   - CommonJS modules: 👂 heard
   - ECMAScript modules: 👂 heard
   - node:module: 👂 heard
@@ -60,7 +60,7 @@
   - Internationalization: 👂 heard
   - Blob, File, Buffer, node:buffer: 👂 heard
   - Module node:zlib: 👂 heard
-- Application structure and architecture: 👂 heard
+- Application structure and architecture
   - Isolation between layer: 👂 heard
   - Multilayer approach: 👂 heard
   - Separation of concerns: 👂 heard
