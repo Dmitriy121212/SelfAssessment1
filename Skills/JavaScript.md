@@ -1,0 +1,89 @@
+## Programming fundamental concepts
+
+- Language
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 👂 heard
+  - call: 👂 heard
+  - bind: 👂 heard
+  - apply: 👂 heard
+  - instanceof: 👂 heard
+  - ...spread: 👂 heard
+  - ...rest: 👂 heard
+  - typeof: 🖐️ used
+  - destructuring: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 👂 heard
+  - optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - global: 👂 heard
+  - globalThis: 👂 heard
+  - window: 👂 heard
+  - getters and setters: 👂 heard
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
+  - equality operators: 👂 heard
+  - logical operators: 👂 heard
+  - bitwise operators: 👂 heard
+  - ternary operator: 👂 heard
+  - void: 🖐️ used
+  - yield: 🖐️ used
+  - await: 🖐️ used
+  - template literal: 👂 heard
+  - strict mode: 👂 heard
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
+  - Reflect: 🖐️ used
+- Statements
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 👂 heard
+  - for..of: 👂 heard
+  - for await: 👂 heard
+  - throw: 👂 heard
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label: 👂 heard
+  - try..catch: 👂 heard
+  - switch: 👂 heard
+  - class: 👂 heard
+  - new Error: 👂 heard
+  - with: 👂 heard
+- Functions
+  - function declaration: 👂 heard
+  - function expression: 👂 heard
+  - return: 👂 heard
+  - default parameters: 👂 heard
+  - functional object: 👂 heard
+- Data structures
+  - Array: 🙋 explained
+  - mixin: 👂 heard
+  - extend: 👂 heard
+  - typed arrays: 👂 heard
+  - Map: 👂 heard
+  - Set: 👂 heard
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 👂 heard
+  - EventEmitter: 👂 heard
+  - RegExp: 👂 heard
+  - Date: 👂 heard
+  - BigInt: 👂 heard
+- Infrastructure
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 👂 heard
+  - MDN: 👂 heard
